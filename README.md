@@ -91,7 +91,6 @@ TEMP-PDF-IMG-TO-EXCEL/
 ├── perfect_student_marks.xlsx
 ├── phase1_extract.py
 ├── phase2_process.py
-├── phase2_process_BACKUP_WORKING.py
 ├── requirements.txt
 ├── sample-input-doc-received.pdf
 └── venv/
